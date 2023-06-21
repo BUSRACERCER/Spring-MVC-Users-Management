@@ -1,0 +1,34 @@
+
+
+.imgRadius{
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+    object-fit: cover;
+
+}
+.tableText{
+    text-align: center;
+    font-family: Calibri;
+    background-color: cornflowerblue;
+
+}
+
+
+.ornek{
+    width: 900px;
+    margin:auto;
+}
+.saga-kaydir{
+    float:left;
+    padding:0 0 10px 10px;
+}
+.cagri {
+
+    background-image: url("https://cdn.wmaraci.com/nedir/bilisim.png"); /* Kullanılacak Görsel */
+    background-color: tomato; /* Görsel Çalışmassa Arkaplan Rengi */
+    background-position: center; /* Görseli Ortala */
+    background-repeat: no-repeat; /* Resmi tekrarlama */
+    background-size: cover; /* resmi ekranı kaplayacak hale getir. */
+
+}
