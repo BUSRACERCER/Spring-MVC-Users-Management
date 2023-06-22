@@ -1,25 +1,29 @@
 # Spring-MVC-Users-Management
-@ -0,0 +1,35 @@
-# Spring Mvc Note App
 <p> 
-Bu Android uygulaması, Bir işletmenin admin kontrollü olarak Kategori, Ürün yada Müşterilerini kontrol ederek tüm mobil kullanıcıları ile etkileşime geçer ve dinamik bir hizmet almasını sağlar.
+It enables a business to interact with all relevant users by adding, deleting and updating users under admin control and provides a dynamic service.
 
-Uygulamada RestApi Json, SQLite, Firebase Push Notification ve Android SDK Tekonolojileri kullanılmıştır.
+JAVA, SPRING BOOT, THYMELEAF,HTML 5,CSS,MYSQL technologies are used in the application.
 </p>
 
-# Yazılım Sürümleri:
+# Software Versions:
 - Java 8
 - Spring 2.17.3
 - Mysql 8
+- CSS
     
-# Ugulama Özellikleri:
-- [x] Kullanıcı giriş
-- [x] Kullanıcı Kayıt
-- [x] Ürün Listeleme
+# Application Features:
+- [x] User Login
+- [x] User Add
+- [x] User Listing
+- [x] User Searching
+- [x] User Update
+- [x] User Delete
+- [x] User Delete/Undo
+- [x] User Logout  
 
-## Ugulama Note:
+## Project Note:
 ```
-Bu uygulama hakkında genel bir not ve açıklama sunar.
+In this application, session cookie and encryption with GoogleTink are used.
 ```
 
 
