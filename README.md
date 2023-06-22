@@ -33,6 +33,15 @@ Bu uygulama hakkında genel bir not ve açıklama sunar.
     <img src="USER-APP-FOTO/LOGİN.png" style="max-width:100%;"> 
 </a>
     <a href="https://github.com/hakanozer/AndroidCampaigns/blob/master/ekran_goruntuleri/1.png" target="_blank">
-    <img src="USER-APP-FOTO/LOGİN.png" style="max-width:100%;"> 
+    <img src="USER-APP-FOTO/USER TABLO.png" style="max-width:100%;"> 
+</a>
+       <a href="https://github.com/hakanozer/AndroidCampaigns/blob/master/ekran_goruntuleri/1.png" target="_blank">
+    <img src="USER-APP-FOTO/UPDATE.png" style="max-width:100%;"> 
+</a>
+       <a href="https://github.com/hakanozer/AndroidCampaigns/blob/master/ekran_goruntuleri/1.png" target="_blank">
+    <img src="USER-APP-FOTO/SEARCH.png" style="max-width:100%;"> 
+</a>
+       <a href="https://github.com/hakanozer/AndroidCampaigns/blob/master/ekran_goruntuleri/1.png" target="_blank">
+    <img src="USER-APP-FOTO/USER ADD.png" style="max-width:100%;"> 
 </a>
 </p>
