@@ -2,7 +2,7 @@
 <p> 
 It enables a business to interact with all relevant users by adding, deleting and updating users under admin control and provides a dynamic service.
 
-JAVA, SPRING BOOT, THYMELEAF,HTML 5,CSS,MYSQL technologies are used in the application.
+JAVA, SPRING BOOT, MYSQL, THYMELEAF, HTML 5, CSS, BOOTSTRAP technologies are used in the application.
 </p>
 
 # Software Versions:
@@ -11,6 +11,7 @@ JAVA, SPRING BOOT, THYMELEAF,HTML 5,CSS,MYSQL technologies are used in the appli
 - Mysql 8
 - HTML 5
 - CSS
+- Bootstrap
     
 # Application Features:
 - [x] User Login
