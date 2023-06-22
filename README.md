@@ -24,10 +24,15 @@ Bu uygulama hakkında genel bir not ve açıklama sunar.
 
 
 # Project Life Cycle
-<img src="https://github.com/hakanozer/spring-mvc-note-app/blob/main/project_images/diyagram_1.png" style="max-width:100%;">
+<img src="USER-APP-FOTO/LOGİN.png" style="max-width:100%;">
 
 # Project Display Image
+
 <p>
 <a href="https://github.com/hakanozer/AndroidCampaigns/blob/master/ekran_goruntuleri/1.png" target="_blank">
-<img src="https://github.com/hakanozer/AndroidCampaigns/blob/master/ekran_goruntuleri/1.png" width="200" style="max-width:100%;"></a>
+    <img src="USER-APP-FOTO/LOGİN.png" style="max-width:100%;"> 
+</a>
+    <a href="https://github.com/hakanozer/AndroidCampaigns/blob/master/ekran_goruntuleri/1.png" target="_blank">
+    <img src="USER-APP-FOTO/LOGİN.png" style="max-width:100%;"> 
+</a>
 </p>
