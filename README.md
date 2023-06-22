@@ -9,6 +9,7 @@ JAVA, SPRING BOOT, THYMELEAF,HTML 5,CSS,MYSQL technologies are used in the appli
 - Java 8
 - Spring 2.17.3
 - Mysql 8
+- HTML 5
 - CSS
     
 # Application Features:
